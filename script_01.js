@@ -8,10 +8,10 @@
 
 // Funktionsrumpf (body) | callee
 // Funktionsdeklaration
-function test()
-{
-    console.log("Hallo Patrick!");
-}
+// function test()
+// {
+//     console.log("Hallo Patrick!");
+// }
 
 /***** Funktionen 02a *****/
 // 2a. Parametrisierung + Datenübergabe von INNEN
@@ -19,10 +19,10 @@ function test()
 // ausgabeNamen();
 // console.log(firstName); // Fehler: Scope!
 
-function ausgabeNamen() {
-    let firstName = "Heinrich"; // what happens in Vegas, ...
-    console.log("Hallo " + firstName + "!");
-}
+// function ausgabeNamen() {
+//     let firstName = "Heinrich"; // what happens in Vegas, ...
+//     console.log("Hallo " + firstName + "!");
+// }
 
 /***** Funktionen 02b *****/
 // 2b. Parametrisierung + Datenübergabe von AUSSEN
